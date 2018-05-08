@@ -1,0 +1,2 @@
+# SomaParam
+SomaParametrizada
